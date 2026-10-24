@@ -1,0 +1,12 @@
+{
+  "name": "rspack-rebuild-module-import-module-repro",
+  "private": true,
+  "scripts": {
+    "build": "rspack build --config rspack.config.mjs"
+  },
+  "devDependencies": {
+    "@rspack/cli": "2.2.9",
+    "@rspack/core": "2.2.9",
+    "css-loader": "7.1.2"
+  }
+}
